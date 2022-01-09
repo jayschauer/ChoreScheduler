@@ -8,7 +8,7 @@ Only one roommate per chore
 
 Every roommate should have close to the average chores per week: chores/roommates
 
-Every roommate should have close to the overall average chores: weeks*chores/roommatesnts
+Every roommate should have close to the overall average chores: weeks*chores/roommates
                  
 The same roommate can't do both inside recycling chores in a given week
 
